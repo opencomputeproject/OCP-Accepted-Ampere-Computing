@@ -1,4 +1,4 @@
-# Ampere Computing - Mt. Jade - Open Source Firmware
+# Ampere Computing - Mt. Jade - BMC
 
 
 * Ampere Mt Jade OCP 2021 Supplier Requirements - Hardware Management.xlsx
